@@ -1,7 +1,7 @@
 
 public class ArraysProgram {
 	public String str1[] = new String[6];
-	
+	//This is my second commit
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ArraysProgram obj = new ArraysProgram();
